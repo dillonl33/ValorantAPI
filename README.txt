@@ -1,0 +1,1 @@
+The plan is for this repo to contain a Python script which demonstrates the capability of the Valorant API for our research proposal.
